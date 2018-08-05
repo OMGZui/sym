@@ -33,7 +33,7 @@
           <entry key="lock" value="1" />
           <entry key="md" value="1" />
           <entry key="php" value="14" />
-          <entry key="sh" value="1" />
+          <entry key="sh" value="2" />
           <entry key="twig" value="5" />
           <entry key="yaml" value="13" />
         </counts>
@@ -41,7 +41,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key=".env file" value="1" />
-          <entry key="Bash" value="1" />
+          <entry key="Bash" value="2" />
           <entry key="Git file" value="1" />
           <entry key="JavaScript" value="1" />
           <entry key="Markdown" value="1" />
@@ -59,14 +59,14 @@
           <entry key="json" value="1" />
           <entry key="lock" value="1" />
           <entry key="php" value="143" />
-          <entry key="sh" value="32" />
+          <entry key="sh" value="34" />
           <entry key="twig" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key=".env file" value="14" />
-          <entry key="Bash" value="32" />
+          <entry key="Bash" value="34" />
           <entry key="PHP" value="143" />
           <entry key="Twig" value="2" />
           <entry key="composer.json" value="2" />
@@ -282,12 +282,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533463618613</updated>
-      <workItem from="1533463620412" duration="3367000" />
+      <workItem from="1533463620412" duration="3444000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3367000" />
+    <option name="totallyTimeSpent" value="3444000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="42" y="23" width="1238" height="777" extended-state="6" />
