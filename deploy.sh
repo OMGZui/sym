@@ -1,8 +1,9 @@
-#!/bin/zsh
+#!/usr/bin/env bash
 
 deploy_time=$(date "+%Y-%m-%d %H:%M:%S")
 echo "---开发构建---\n"
 git add .
 git commit -m "$deploy_time"
 git push origin master
-echo "---构建完成---\n"
+echo "\n"
+echo "---构建完成---"
