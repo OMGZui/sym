@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/zsh
 
 deploy_time=$(date "+%Y-%m-%d %H:%M:%S")
 echo "---开发构建---\n"
